@@ -21,6 +21,7 @@
         <activity android:name=".sign.in.SignInActivity" />
         <activity android:name=".sign.up.SignUpActivity" />
         <activity android:name=".MoviesActivity" />
+        <activity android:name=".DetailedMovieActivity" />
     </application>
 
 </manifest>
