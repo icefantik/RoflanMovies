@@ -3,6 +3,8 @@ package com.example.roflanmovies
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.roflanmovies.sign.`in`.SignInActivity
+import com.example.roflanmovies.sign.up.SignUpActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
